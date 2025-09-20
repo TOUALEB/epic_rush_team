@@ -266,27 +266,6 @@ section { padding: 100px 0; }
   }
   
   /* FIX: Kan hna code zayd dyal carousel, 7yednah bach mayb9ach l'conflict */
-  .clients__carousel {
-  width: 100%;
-  display: flex;
-  overflow-x: auto;         /* يسمح بالسكرول باليد */
-  animation: none !important; /* نوقف الأنيميشين */
-  gap: 20px;
-  -webkit-overflow-scrolling: touch; /* smooth scroll فالموبايل */
-}
-
-.clients__slide {
-  flex: 0 0 auto; /* كل slide ياخد الحجم ديالو بلا ما يتقص */
-  display: flex;
-  align-items: center;
-  gap: 20px;
-  padding: 10px;
-}
-
-.clients__slide img {
-  max-width: 100px;
-  height: auto;
-  opacity: 0.8;
-}
 
 }
+
