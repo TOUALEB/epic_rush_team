@@ -18,7 +18,7 @@ Built with **HTML, CSS, and JavaScript**, it delivers a sleek design and smooth 
 
 ## 🌍 Live Demo
 
-
+https://epicrushteam.netlify.app/
 ---
 version francais :
 # EpicRush - Site Vitrine
@@ -40,7 +40,8 @@ Il a été conçu en **HTML, CSS et JavaScript** avec un design élégant et une
 - **JavaScript Vanilla**  
 
 ## 🌍 Démo en ligne
-https://epicrush.netlify.app/
+
+https://epicrushteam.netlify.app/
 
 ---
 
